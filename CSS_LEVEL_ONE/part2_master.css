@@ -1,0 +1,20 @@
+body{
+  background: url(https://cf.bstatic.com/images/hotel/max1024x768/206/206950906.jpg);
+  background-repeat: repeat;
+}
+
+div{
+  background-color: blue;
+  border-color: red;
+  border-width: 5px;
+  border-style: double;
+}
+
+p{
+  color:yellow;
+}
+
+span{
+  background: red;
+  color: black;
+}

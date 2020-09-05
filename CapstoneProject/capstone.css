@@ -1,0 +1,53 @@
+*{
+  background-color: #264653;
+}
+
+body{
+  border-left: 100px solid #2A9D8F;
+  border-right: 100px solid #2A9D8F;
+  border-bottom: 100px solid #2A9D8F;
+}
+
+
+h1{
+  text-align: center;
+  color:white;
+}
+
+h2{
+  text-align: center;
+  color:white;
+}
+
+p{
+  text-align: center;
+  color: white;
+  font-size: 23px;
+  margin: 10% 20% 0% 20%;
+}
+
+.formular{
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+label{
+  color: white;
+  font-size: 18px;
+}
+
+input{
+  width: 20%;
+  height: 30px;
+  background-color: white;
+  margin-bottom: 10px;
+}
+
+#btn{
+  background-color: orange;
+  width: 10%;
+  height: 50px;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 15px;
+}
